@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class atividade {
+public class somaNumeros {
     public static Float atividade1() {
         Scanner scanner = new Scanner(System.in);
         /*

@@ -7,7 +7,7 @@ public class Main {
 
     float atividade1;
 
-    atividade1 = atividade.atividade1();
+    atividade1 = somaNumeros.atividade1();
     System.out.println(atividade1);
 
     }
